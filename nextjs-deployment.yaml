@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nextjs
-        image: sayantoxa/nextjs-k3s-site:latest
+        image: sayantoxa/nextjs-k3s-site-new:latest
         ports:
         - containerPort: 3000
 ---
